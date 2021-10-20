@@ -22,14 +22,14 @@ Aplication for the event [DoWhile-21](https://dowhile.io/inscricao)
 
 ## Features
 
-- Full aplication.
-- Login with github.
-- messages in real time, using web-socket.
-- authenticated routes
+- Full aplicação.
+- Login com github.
+- mensagens em tempo real, usando web-socket.
+- autenticão de rotas
 
 ## Technologies
 
-The following tools were used in this project:
+Sigas as ferramentas que foram usadas no projeto:
 
 - [React](https://pt-br.reactjs.org/)
 - [node](https://nodejs.org/en/)
@@ -42,7 +42,7 @@ The following tools were used in this project:
 
 ## Requirements
 
-Before starting 🏁, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Antes de inicar o projeto, você precisa ter[Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
 
 ## Starting
 
@@ -64,12 +64,8 @@ $ yarn dev or npm run dev
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## License
+## Licenças
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-Made with 💜 by <a href="https://github.com/Willian-Rodrigues" target="_blank">Willian Rodrigues</a>
-
-&#xa0;
+Este projeto está sob licença do MIT. Para mais detalhes, Veja em [LICENSE](LICENSE.md) file.
 
 <a href="#top">Back to top</a>
